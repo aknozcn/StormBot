@@ -1,0 +1,51 @@
+c:\users\sh3ll\documents\visual studio 2015\Projects\StormBot\StormBot\bin\Debug\StormBot.exe.config
+c:\users\sh3ll\documents\visual studio 2015\Projects\StormBot\StormBot\bin\Debug\StormBot.exe
+c:\users\sh3ll\documents\visual studio 2015\Projects\StormBot\StormBot\bin\Debug\StormBot.pdb
+c:\users\sh3ll\documents\visual studio 2015\Projects\StormBot\StormBot\obj\Debug\StormBot.Form1.resources
+c:\users\sh3ll\documents\visual studio 2015\Projects\StormBot\StormBot\obj\Debug\StormBot.Properties.Resources.resources
+c:\users\sh3ll\documents\visual studio 2015\Projects\StormBot\StormBot\obj\Debug\StormBot.csproj.GenerateResource.Cache
+c:\users\sh3ll\documents\visual studio 2015\Projects\StormBot\StormBot\obj\Debug\StormBot.exe
+c:\users\sh3ll\documents\visual studio 2015\Projects\StormBot\StormBot\obj\Debug\StormBot.pdb
+c:\users\sh3ll\documents\visual studio 2015\Projects\StormBot\StormBot\obj\Debug\StormBot.csprojResolveAssemblyReference.cache
+C:\Users\Sh3ll\Desktop\projectss\StormBot\StormBot\bin\Debug\StormBot.exe.config
+C:\Users\Sh3ll\Desktop\projectss\StormBot\StormBot\bin\Debug\StormBot.exe
+C:\Users\Sh3ll\Desktop\projectss\StormBot\StormBot\bin\Debug\StormBot.pdb
+C:\Users\Sh3ll\Desktop\projectss\StormBot\StormBot\obj\Debug\StormBot.csprojAssemblyReference.cache
+C:\Users\Sh3ll\Desktop\projectss\StormBot\StormBot\obj\Debug\StormBot.Form1.resources
+C:\Users\Sh3ll\Desktop\projectss\StormBot\StormBot\obj\Debug\StormBot.Properties.Resources.resources
+C:\Users\Sh3ll\Desktop\projectss\StormBot\StormBot\obj\Debug\StormBot.csproj.GenerateResource.cache
+C:\Users\Sh3ll\Desktop\projectss\StormBot\StormBot\obj\Debug\StormBot.csproj.CoreCompileInputs.cache
+C:\Users\Sh3ll\Desktop\projectss\StormBot\StormBot\obj\Debug\StormBot.exe
+C:\Users\Sh3ll\Desktop\projectss\StormBot\StormBot\obj\Debug\StormBot.pdb
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\bin\Debug\StormBot.pdb
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Debug\StormBot.csprojAssemblyReference.cache
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Debug\StormBot.Form1.resources
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Debug\StormBot.Properties.Resources.resources
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Debug\StormBot.csproj.GenerateResource.cache
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Debug\StormBot.csproj.CoreCompileInputs.cache
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Debug\StormBot.pdb
+C:\Users\Sh3ll\Desktop\StormBot - Kopya\StormBot\bin\Debug\StormBot.exe.config
+C:\Users\Sh3ll\Desktop\StormBot - Kopya\StormBot\bin\Debug\StormBot.exe
+C:\Users\Sh3ll\Desktop\StormBot - Kopya\StormBot\bin\Debug\StormBot.pdb
+C:\Users\Sh3ll\Desktop\StormBot - Kopya\StormBot\obj\Debug\StormBot.csprojAssemblyReference.cache
+C:\Users\Sh3ll\Desktop\StormBot - Kopya\StormBot\obj\Debug\StormBot.Form1.resources
+C:\Users\Sh3ll\Desktop\StormBot - Kopya\StormBot\obj\Debug\StormBot.Properties.Resources.resources
+C:\Users\Sh3ll\Desktop\StormBot - Kopya\StormBot\obj\Debug\StormBot.csproj.GenerateResource.cache
+C:\Users\Sh3ll\Desktop\StormBot - Kopya\StormBot\obj\Debug\StormBot.csproj.CoreCompileInputs.cache
+C:\Users\Sh3ll\Desktop\StormBot - Kopya\StormBot\obj\Debug\StormBot.exe
+C:\Users\Sh3ll\Desktop\StormBot - Kopya\StormBot\obj\Debug\StormBot.pdb
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Debug\StormBot.Forms.AddTime.resources
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\bin\Debug\StormBot.exe.config
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\bin\Debug\StormBot.exe
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Debug\StormBot.exe
+C:\Users\Sh3ll\Desktop\StormBot2\StormBot\StormBot\bin\Debug\StormBot.exe.config
+C:\Users\Sh3ll\Desktop\StormBot2\StormBot\StormBot\bin\Debug\StormBot.exe
+C:\Users\Sh3ll\Desktop\StormBot2\StormBot\StormBot\bin\Debug\StormBot.pdb
+C:\Users\Sh3ll\Desktop\StormBot2\StormBot\StormBot\obj\Debug\StormBot.csprojAssemblyReference.cache
+C:\Users\Sh3ll\Desktop\StormBot2\StormBot\StormBot\obj\Debug\StormBot.Form1.resources
+C:\Users\Sh3ll\Desktop\StormBot2\StormBot\StormBot\obj\Debug\StormBot.Forms.AddTime.resources
+C:\Users\Sh3ll\Desktop\StormBot2\StormBot\StormBot\obj\Debug\StormBot.Properties.Resources.resources
+C:\Users\Sh3ll\Desktop\StormBot2\StormBot\StormBot\obj\Debug\StormBot.csproj.GenerateResource.cache
+C:\Users\Sh3ll\Desktop\StormBot2\StormBot\StormBot\obj\Debug\StormBot.csproj.CoreCompileInputs.cache
+C:\Users\Sh3ll\Desktop\StormBot2\StormBot\StormBot\obj\Debug\StormBot.exe
+C:\Users\Sh3ll\Desktop\StormBot2\StormBot\StormBot\obj\Debug\StormBot.pdb

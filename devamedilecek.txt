@@ -1,0 +1,12 @@
+﻿+ Parti no eventinde eğer kazanan olmazsa kısmı yapılacak
++ Gotown packeti sorunlu
++ KayipGM Devam edilecek
++ Unique event devam edilecek
++ Anlık prosedür tetikleme
++ Sendpm eklenecek gönderme ve alma
++ Her şey iniden çekilecek
++ Notice türkçe olayı
++ %% taglar tekrardan düzenlenecek iniden çekilecek
+
+
+- Autologin eklenecek / reconn

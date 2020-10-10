@@ -1,0 +1,11 @@
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\bin\Release\StormBot.exe.config
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\bin\Release\StormBot.exe
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\bin\Release\StormBot.pdb
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Release\StormBot.csprojAssemblyReference.cache
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Release\StormBot.Form1.resources
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Release\StormBot.Forms.AddTime.resources
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Release\StormBot.Properties.Resources.resources
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Release\StormBot.csproj.GenerateResource.cache
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Release\StormBot.csproj.CoreCompileInputs.cache
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Release\StormBot.exe
+C:\Users\Sh3ll\Desktop\StormBot\StormBot\obj\Release\StormBot.pdb
